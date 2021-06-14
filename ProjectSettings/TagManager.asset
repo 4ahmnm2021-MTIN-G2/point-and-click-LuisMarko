@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RedButton
+  - GreenButton
+  - BlueButton
+  - BeltRRot
+  - BeltGRot
+  - BeltBRot
+  - BlueBox
+  - RedBox
+  - GreenBox
   layers:
   - Default
   - TransparentFX

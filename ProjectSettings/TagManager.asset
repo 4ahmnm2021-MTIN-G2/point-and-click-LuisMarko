@@ -4,15 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - RedButton
-  - GreenButton
-  - BlueButton
-  - BeltRRot
-  - BeltGRot
-  - BeltBRot
-  - BlueBox
-  - RedBox
-  - GreenBox
+  - belt
+  - hands
+  - object
+  - putDown
   layers:
   - Default
   - TransparentFX

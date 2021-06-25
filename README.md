@@ -1,27 +1,21 @@
 ### Project description:
 
+The player taks is to sort packages that arrive on the convoyer belt. If he fails to do so 3 times the game ends. Over time the convoyer belt speed increases.
+
 
 ### Development platform:
 + Windows 10
-+ Unity 2019.1.14f1
++ Unity 2020.2.3f1
 
 ### Target platform:
 
 WebGL
 
-### Necessary setup/execution steps:
-
-### Visuals:
-None
-
-### Third party material:
-
 ### Project state:
 
-5%
+100%
 
 ### Limitations:
 
-### Lessons Learned:
 
 Copyright by me

@@ -1,15 +1,25 @@
 # Randomation Vehicle Physics
 This is a vehicle physics system for the Unity engine, originally developed with Unity 5.6. The most recent Unity version it has been tested with is 2019.2.9. It aims to achieve semi-realistic, general-purpose driving mechanics. This was originally sold on the asset store as Randomation Vehicle Physics 2.0.
 
+<<<<<<< HEAD
 # Contributing
 You may contribute by first pulling the repository into your own fork where you can add commits, then creating a pull request to merge your changes. After a pull request is approved, it can be merged into the master branch.
 
 If you feel up to it, you can try tackling one of the issues in the issues tab above. You are free to put comments around your code giving yourself credit if you feel compelled to do so. If you add new properties/variables when contributing, make sure their default values do not change the behavior of the included prefabs. Any added code will be considered to be under the MIT License as the rest of the repository is.
+=======
+The player taks is to sort packages that arrive on the convoyer belt. If he fails to do so 3 times the game ends. Over time the convoyer belt speed increases.
+
+
+### Development platform:
++ Windows 10
++ Unity 2020.2.3f1
+>>>>>>> ebfda1e5004543be8c5d14aaac611a05ff61b06b
 
 Documentation can be found in [the manual](Assets/RVP_Manual.pdf).
 
 # How To Use
 
+<<<<<<< HEAD
 Import the repository into the top level of a blank Unity project folder to make sure everything works. After that, you can attempt to import it into your own project, but be mindful when merging the project settings. Read the section of the manual about project settings to make sure you copy the ones that are important and address potential conflicts with your own project settings.
 
 # License Info
@@ -19,12 +29,20 @@ Code is licensed under the MIT License. You can sell projects that use code from
 All models and textures are public domain and were created for this package.
 
 **Font:**
+=======
+### Project state:
+
+100%
+>>>>>>> ebfda1e5004543be8c5d14aaac611a05ff61b06b
 
 Roboto under the Apache license
 http://www.google.com/fonts/specimen/Roboto
 http://www.apache.org/licenses/LICENSE-2.0.html
 
+<<<<<<< HEAD
 Sounds are from freesound.org, some of which are public domain, others are under either the Creative Commons Attribution license or the Creative Commons Sampling Plus license.
+=======
+>>>>>>> ebfda1e5004543be8c5d14aaac611a05ff61b06b
 
 http://creativecommons.org/publicdomain/zero/1.0/
 http://creativecommons.org/licenses/by/3.0/
